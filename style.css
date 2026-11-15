@@ -23,3 +23,4 @@ summary{cursor:pointer;font-weight:600}
 details p{margin:10px 0 4px}
 footer{margin-top:36px;font-size:15px;color:var(--mute)}
 @media (max-width:560px){main{padding:24px 18px}h1{font-size:26px}header b{font-size:23px}}
+ul{padding-left:22px;margin:8px 0 0}li{margin:0 0 8px}
